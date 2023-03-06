@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://prabhathkj.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://prabhath-kj.github.io/prabhath/)**
 
 - 📫 How to reach me **prabhathkj4@gmail.com.com**
 
