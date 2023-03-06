@@ -1,13 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prabhath</h1>
-<h3 align="center">I'm a passionate Front-End Developer from India.</h3>
-
+<h3 align="center">I'm a passionate Full-Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Fiberplan - A PWA for network mapping.**
-
+- 🔭 I’m currently working on **e shopee - an e-commerce project.**
 
 - 🌱 I’m currently learning **Web Development and Datastructure.**
 
@@ -48,7 +46,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -58,10 +55,10 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prabhath-kj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
