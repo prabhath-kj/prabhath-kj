@@ -17,7 +17,7 @@
 
 - 📫 Feel free to connect with me on GitHub to explore my projects and repositories. I'm open to collaborations, freelance opportunities, or discussing any exciting projects you have in mind.
 
-- 🔗 You can find me on GitHub at prabhath-kj, and you can reach out to me via email at **prabhathkj4@gmail.com.com**.
+- 🔗 You can find me on GitHub at **https://github.com/prabhath-kj/**, and you can reach out to me via email at **prabhathkj4@gmail.com**.
 
 Looking forward to connecting with fellow developers and making a positive impact through my work! Let's build something awesome together! 🚀
 
@@ -28,6 +28,8 @@ Looking forward to connecting with fellow developers and making a positive impac
 - Back-end: Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT authentication.
 - Database: MongoDB, MySQL.
 - Version Control: Git, GitHub.
+
+
 
 
 <p align="center">
