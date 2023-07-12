@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">👋 Hello, I'm Prabhath!</h1>
 <h3 align="center">💻 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer. I love crafting efficient and scalable web applications using the latest technologies and best practices..</h3>
