@@ -12,11 +12,11 @@
 
 - 🌟 In my projects, I focus on writing clean, modular, and well-documented code. I believe in the power of teamwork and collaboration, and I'm comfortable working in both individual and team-oriented environments.
 
-- 🌍 Apart from coding, I enjoy exploring new technologies. I also have excellent problem-solving skills and a strong attention to detail.
+- 🌍 Apart from coding, I enjoy exploring new technologies. I also have excellent problem-solving skills and strong attention to detail.
 
 - 📫 Feel free to connect with me on GitHub to explore my projects and repositories. I'm open to collaborations, freelance opportunities, or discussing any exciting projects you have in mind.
 
-- 🔗 You can find me on GitHub at **https://github.com/prabhath-kj/**, and you can reach out to me via email at **prabhathkj4@gmail.com**.
+- 🔗 You can find me on GitHub at **https://github.com/prabhath-kj/**, and you can reach out to me via email at **view.prabhath.kj@gmail.com**.
 
 Looking forward to connecting with fellow developers and making a positive impact through my work! Let's build something awesome together! 🚀
 
