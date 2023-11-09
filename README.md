@@ -24,20 +24,6 @@ Looking forward to connecting with fellow developers and making a positive impac
 
 
 
-## 💡 Some of the technologies I work with include:
-- Front-end: React.js, Redux, HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, Tailwind CSS.
-- Back-end: Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT authentication.
-- Database: MongoDB, MySQL.
-- Version Control: Git, GitHub.
-
-
-
-
-<p align="center">
-    <a href="https://github.com/prabhath-kj/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prabhath kj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhath-kj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 
