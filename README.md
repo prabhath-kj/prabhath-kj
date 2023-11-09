@@ -2,13 +2,12 @@
 <h1 align="center">👋 Hello, I'm Prabhath!</h1>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
 
-<h3 align="center">💻 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer. I love crafting efficient and scalable web applications using the latest technologies and best practices..</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Universe - an Social Media project.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Next JS.**
 
 - 🚀 My expertise lies in developing full-stack applications from the ground up, building robust RESTful APIs, and implementing responsive and intuitive user interfaces. I enjoy working on both the front-end and back-end, and I strive to create seamless user experiences.
 
