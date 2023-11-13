@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Universe - an Social Media project.**
+- 🔭 I’m currently working on **Universe - a Social Media project.**
 
 - 🌱 I’m currently learning **Next JS.**
 
-- 🚀 My expertise lies in developing full-stack applications from the ground up, building robust RESTful APIs, and implementing responsive and intuitive user interfaces. I enjoy working on both the front-end and back-end, and I strive to create seamless user experiences.
+- 🚀 My expertise lies in developing full-stack applications from the ground up, building robust RESTful APIs, and implementing responsive and intuitive user interfaces. I enjoy working on both the front end and back end, and I strive to create seamless user experiences.
 
 - 🌟 In my projects, I focus on writing clean, modular, and well-documented code. I believe in the power of teamwork and collaboration, and I'm comfortable working in both individual and team-oriented environments.
 
