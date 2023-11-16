@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello, I'm Prabhath!</h1>
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
+<h1 align="right"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
 
 
 ## 🙋‍♂️ About Me
