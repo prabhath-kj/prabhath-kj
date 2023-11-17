@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=prabhath-kj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabhath-kj&icon=0&color=12)](https://visitcount.itsvg.in)
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
