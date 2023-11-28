@@ -1,9 +1,9 @@
-<h1 align="right"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Universe - a Social Media project.<br>🌱 I’m currently learning Next JS<br>
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabhath-kj/) 
 
