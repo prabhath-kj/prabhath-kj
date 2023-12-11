@@ -1,4 +1,4 @@
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
+<h1 align="right"> <img src="https://komarev.com/ghpvc/?username=prabhath-kj&label=Profile%20views&color=0e75b6&style=flat" alt="prabhath" /> </h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Universe - a Social Media project.<br>🌱 I’m currently learning Next JS<br>
